@@ -2,11 +2,6 @@
 """
 Python module for BISG.Version 1.
 
-Copyright: ((This work was supported by the National Nature Science Foundation of China (No. 61373051and NO. 61772226) and US National Institutes of Health (R35-GM126985)).
-
-Lingtao Su(major author).sulin@missouri.edu.
-Mingrui Ma(assistant).280406100@qq.com
-
 Statement: this module uses librfn, downloaded from https://github.com/bioinf-jku/librfn-python,
     Copyright © 2015-2017 Thomas Unterthiner.
 
